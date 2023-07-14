@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "title": "Call of Duty Black Ops 2",
+      "description": "Shooter en primera persona futurista",
+      "price": 15000,
+      "thumbnail": "url",
+      "code": "abc123",
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "title": "Far Cry 3",
+      "description": "Juego de supervivencia en mundo abierto",
+      "price": 12000,
+      "thumbnail": "url",
+      "code": "abc124",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "title": "Fifa 24",
+      "description": "Juego de futbol con multiples modalidades",
+      "price": 20000,
+      "thumbnail": "url",
+      "code": "abc125",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "title": "Read Dead Redemption",
+      "description": "Shooter en tercera persona, mundo abierto",
+      "price": 17000,
+      "thumbnail": "url",
+      "code": "abc126",
+      "stock": 20,
+      "status": true,
+      "category": "Ética"
+    },
+    {
+      "id": 6,
+      "title": "Pro Evolution Soccer 2020",
+      "description": "Juego de futbol",
+      "price": 8000,
+      "thumbnail": "url",
+      "code": "abc127",
+      "stock": 500
+    },
+    {
+      "id": 7,
+      "title": "Terraria",
+      "description": "Juego plataforma, 2D, supervivencia",
+      "price": 5000,
+      "thumbnail": "url",
+      "code": "abc128",
+      "stock": 100
+    },
+    {
+      "id": 8,
+      "title": "Boorderlands 2",
+      "description": "Juego shooter post apocaliptico",
+      "price": 18500,
+      "thumbnail": "url",
+      "code": "abc129",
+      "stock": 60
+    },
+    {
+      "id": 9,
+      "title": "Sniper Elite",
+      "description": "Shooter francotirador",
+      "price": 7000,
+      "thumbnail": "url",
+      "code": "abc131",
+      "stock": 100
+    },
+    {
+      "id": 10,
+      "title": "Sniper Elite Zombies",
+      "description": "Shooter francotirador en contexto de zombies",
+      "price": 9000,
+      "thumbnail": "url",
+      "code": "abc132",
+      "stock": 15
+    },
+    {
+      "id": 11,
+      "title": "Gran Turismo",
+      "description": "Juego de atomoviles",
+      "price": 5500,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc133",
+      "stock": 90
+    },
+    {
+      "id": 12,
+      "title": "Grand Theft Auto IV",
+      "description": "Juego mundo abierto",
+      "price": 6000,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc134",
+      "stock": 100
+    },
+    {
+      "id": 13,
+      "title": "Need for Speed Rivals",
+      "description": "Juego de autos, mundo abierto",
+      "price": 5000,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc135",
+      "stock": 80
+    }
+  ]
